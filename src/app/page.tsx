@@ -1,4 +1,9 @@
 import Image from "next/image";
+import FilosofiaEditorial from "../components/FilosofiaEditorial";
+import ComparacionLenguaje from "@/components/ComparacionLenguaje";
+import Categorias from "./Categorias";
+import LenguajesDestacados from "@/components/LenguajesDestacados";
+import Hero from "@/components/Hero";
 
 export default function Home() {
   return (
